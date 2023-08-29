@@ -1,4 +1,4 @@
-Recover tree structure from json file of LIghtGBM model and using it to predict instance .
+# Recover tree structure from json file of LIghtGBM model and using it to predict instance .
 from lightgbm import LGBMClassifier
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
