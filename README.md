@@ -1,2 +1,3 @@
-# utilspy
-Some py code for convenience
+## lists
+- using proximityMatrix to calculate similarity of instance
+- a example bayes optimization code
